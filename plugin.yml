@@ -1,0 +1,8 @@
+---
+name: Nano guild
+main: GM\GM
+version: 0.0.0.1
+api: [1.0.0]
+commands:
+ g:
+  description: "ギルドコマンド"
