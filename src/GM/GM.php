@@ -27,6 +27,7 @@ class GM extends PluginBase implements Listener
         $this->list = $this->gdata->get("list");
         $this->ulist = $this->gdata->get("user");
         $this->max = $this->gdata->get("max");
+		$this->getlogger()->info("なのギルドプラグインを起動しました。");
     }
 
     
