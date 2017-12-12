@@ -4,7 +4,7 @@ main: GM\GM
 author: kosugi_kun
 version: 0.1.0
 api: 3.0.0-ALPHA10
-description: pmmpサーバーにギルド機能を追加します。
+description: "pmmpサーバーにギルド機能を追加します。"
 commands:
  g:
   description: "ギルドコマンド"
