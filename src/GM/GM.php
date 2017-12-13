@@ -40,7 +40,7 @@ class GM extends PluginBase implements Listener
     }
 
 
-    public function onCommand(CommandSender $p, Command $command, string $label, array $args): bool //§a[Guild] §f
+    public function onCommand(CommandSender $p, Command $command, string $label, array $args) //§a[Guild] §f
     {
         if (!$p instanceof Player) return $p->sendMessage("§c[エラー] このコマンドはゲーム内で使用してください");
 
