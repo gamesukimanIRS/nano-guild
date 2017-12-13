@@ -4,7 +4,7 @@
 PvPサーバーなどに使えると思います。
 <h3>コマンド一覧</h3>
 <b>ギルドリーダーコマンド</b><br>
-/g make | add <name> | list | kick <name> | lost
+/g make | add <name> | list | kick <name> | lost<br>
   <b>ギルドメンバーコマンド</b><br>
  /g join <name> | bye | list
   <h3>チェンジログ</h3>
